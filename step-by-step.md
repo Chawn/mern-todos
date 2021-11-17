@@ -1,6 +1,10 @@
 # 📒 Step by Step
 
-Tutorial: https://www.youtube.com/watch?v=WPz014v_Qho
+Tutorial: https://www.youtube.com/watch?v=WPz014v_Qho  
+Github: https://github.com/Chawn/mern-todos  
+Published URL: https://chawput-mern-todos.netlify.app/  
+
+<br/>
 
 ## Create Folder
 - client
@@ -85,4 +89,7 @@ cd client
 npm run build
 netlify deploy
 ```
-Publish directory ./build
+Publish directory ./build  
+  
+หรือ Deploy บนเว็บ netlify โดยเลือก repository จาก github ได้เลย  
+Client Project Url: https://chawput-mern-todos.netlify.app/
