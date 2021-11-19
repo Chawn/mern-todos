@@ -1,4 +1,4 @@
-# 📒 Step by Step
+# 📒 Summary
 
 Tutorial: https://www.youtube.com/watch?v=WPz014v_Qho  
 Github: https://github.com/Chawn/mern-todos  
