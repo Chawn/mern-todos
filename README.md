@@ -33,6 +33,7 @@ npx create-react-app
 ## Setup Server
 ```console
 cd server
+npm init -y
 npm install cors express mongoose nodemon dotenv
 ```
 **Server folder structure**
@@ -46,7 +47,24 @@ npm install cors express mongoose nodemon dotenv
 - .env
 - .gitignore
 - Procfile
+- package.json  
 
+**Add this to package.json**  
+```
+"type" : "module",  
+"scripts": {  
+    "start": "node index.js",  
+    ...  
+}
+```  
+
+**Try run server**  
+```
+node index.js
+- or - 
+nodemon index
+```  
+Open: http://localhost:5000
 <br/>
 
 
